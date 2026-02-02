@@ -1,6 +1,6 @@
 - Hi, I’m Kevin Finn
 - UVA School of Data Science Alum
-- I’m looking for full time data science related roles
+- I work on catastrophe models for the property insurance industry
 - I am a Marine Corps veteran \
 https://www.linkedin.com/in/kevin-finn-9885a2108/
 <!---
